@@ -1,0 +1,66 @@
+{
+    "categories": [
+        {
+            "name": "Category 1",
+            "questions": [
+                {
+                    "question": "What is the capital of France?",
+                    "answer": "Paris"
+                },
+                {
+                    "question": "Who wrote Harry Potter?",
+                    "answer": "J.K. Rowling"
+                },
+                {
+                    "question": "hi",
+                    "answer": "hello there"
+                },
+                {
+                    "question": "whats up",
+                    "answer": "Well just chilling ..."
+                },
+                {
+                    "question": "i see",
+                    "answer": "yea"
+                },
+                {
+                    "question": "bye",
+                    "answer": "Until next time then"
+                },
+                {
+                    "question": "hey",
+                    "answer": "hey buddy"
+                },
+                {
+                    "question": "voldemort",
+                    "answer": "He is a character and the main Antagonist in J. K. Rowling's series of Harry Potter novels"
+                },
+                {
+                    "question": "ohk then",
+                    "answer": "See you next time"
+                },
+                {
+                    "question": "well how are you",
+                    "answer": "Fine, thank you. How are you ?"
+                },
+                {
+                    "question": "nice you are improving",
+                    "answer": "Well thank you again"
+                }
+            ]
+        },
+        {
+            "name": "Category 2",
+            "questions": [
+                {
+                    "question": "What is the chemical symbol for water?",
+                    "answer": "H2O"
+                },
+                {
+                    "question": "Who discovered electricity?",
+                    "answer": "Benjamin Franklin"
+                }
+            ]
+        }
+    ]
+}
